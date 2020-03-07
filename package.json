@@ -1,0 +1,28 @@
+{
+  "name": "team-profile",
+  "version": "1.0.0",
+  "description": "Generates a team profile roster",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {
+    "inquirer": "^7.0.6",
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thipsavanh/Team-Profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thipsavanh/Team-Profile/issues"
+  },
+  "homepage": "https://github.com/thipsavanh/Team-Profile#readme"
+}
